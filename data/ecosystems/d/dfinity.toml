@@ -122,6 +122,10 @@ url = "https://github.com/dfinity-side-projects/wasm-persist"
 url = "https://github.com/dfinity-side-projects/winter"
 
 [[repo]]
+url = "https://github.com/dfinity/actions"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/agent-js"
 
 [[repo]]
@@ -374,6 +378,10 @@ url = "https://github.com/dfinity/icp-hello-world-motoko"
 url = "https://github.com/dfinity/icp-hello-world-rust"
 
 [[repo]]
+url = "https://github.com/dfinity/icp-ledger-expensive-endpoints"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/icp-quiz"
 missing = true
 
@@ -401,10 +409,17 @@ url = "https://github.com/dfinity/II-Cognito-Integration"
 missing = true
 
 [[repo]]
+url = "https://github.com/dfinity/inra"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/interface-spec"
 
 [[repo]]
 url = "https://github.com/dfinity/internet-identity"
+
+[[repo]]
+url = "https://github.com/dfinity/internet-identity-logo-generartor"
 
 [[repo]]
 url = "https://github.com/dfinity/invoice-canister"
@@ -484,6 +499,10 @@ url = "https://github.com/dfinity/motoko-playground"
 
 [[repo]]
 url = "https://github.com/dfinity/motoko.rs"
+
+[[repo]]
+url = "https://github.com/dfinity/myneurons"
+missing = true
 
 [[repo]]
 url = "https://github.com/dfinity/nginx-modules"
@@ -631,7 +650,14 @@ url = "https://github.com/dfinity/starfish"
 missing = true
 
 [[repo]]
+url = "https://github.com/dfinity/submit_motion_proposal_to_nns"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/subnet-rental-canister"
+
+[[repo]]
+url = "https://github.com/dfinity/terraform-provider-ic"
 
 [[repo]]
 url = "https://github.com/dfinity/test-compliant-repository-public"
@@ -668,6 +694,9 @@ missing = true
 url = "https://github.com/dfinity/vector"
 
 [[repo]]
+url = "https://github.com/dfinity/verifiable-credentials-sdk"
+
+[[repo]]
 url = "https://github.com/dfinity/verify-bls-signatures"
 
 [[repo]]
@@ -680,7 +709,15 @@ url = "https://github.com/dfinity/vessel-package-set"
 url = "https://github.com/dfinity/vscode-motoko"
 
 [[repo]]
+url = "https://github.com/dfinity/wapp-portal"
+missing = true
+
+[[repo]]
 url = "https://github.com/dfinity/wasm-api-hs"
+missing = true
+
+[[repo]]
+url = "https://github.com/dfinity/wasm-benchmarks"
 missing = true
 
 [[repo]]

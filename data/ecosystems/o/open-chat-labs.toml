@@ -29,6 +29,9 @@ url = "https://github.com/open-chat-labs/frame-host-react"
 url = "https://github.com/open-chat-labs/IC-Deploy-Action"
 
 [[repo]]
+url = "https://github.com/open-chat-labs/ic-sign-in-with-email"
+
+[[repo]]
 url = "https://github.com/open-chat-labs/ic-utils"
 
 [[repo]]
